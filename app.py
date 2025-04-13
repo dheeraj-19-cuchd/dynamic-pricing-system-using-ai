@@ -1,3 +1,5 @@
+# © 2025 [Your Full Name]. All rights reserved.
+# This project is licensed under the MIT License.
 import streamlit as st
 from streamlit_lottie import st_lottie
 import requests
